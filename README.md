@@ -2,9 +2,9 @@
 
 # Karan Singh
 
-**Senior Full Stack Developer**
+### Senior Full Stack Developer
 
-MERN · Next.js · NestJS · TypeScript
+`TypeScript` · `React` · `Next.js` · `Node.js` · `NestJS` · `MongoDB` · `PostgreSQL`
 
 I design and ship production-grade web products — clean APIs, sharp UIs, and systems that stay maintainable under real deadlines.
 
@@ -12,16 +12,34 @@ I design and ship production-grade web products — clean APIs, sharp UIs, and s
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-singh-30b4a5258)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devwork2210)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/devwork2210)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/devwork2210)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/devwork2210)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/devwork2210)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 
 </div>
 
 ---
 
-### Focus
+### How I work
+
+```ts
+type Delivery = {
+  ui: "React" | "Next.js";
+  api: "Node.js" | "NestJS" | "Express";
+  data: "MongoDB" | "PostgreSQL";
+  realtime?: "Socket.io";
+  quality: "typed contracts" | "auth" | "validation";
+};
+
+const karan: Delivery = {
+  ui: "Next.js",
+  api: "NestJS",
+  data: "PostgreSQL",
+  realtime: "Socket.io",
+  quality: "typed contracts",
+};
+```
 
 Full-stack engineer with **4+ years** shipping web products across commerce, realtime systems, dashboards, and API platforms.
 
@@ -35,90 +53,54 @@ Open to **Senior Full Stack / Senior MERN** roles.
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,nodejs,express,nestjs,mongodb,postgres,prisma,tailwind,git,github,vercel" alt="Tech stack" />
 </p>
 
-<table>
-  <tr>
-    <td width="25%" valign="top">
-      <strong>Frontend</strong><br/>
-      React<br/>
-      Next.js<br/>
-      TypeScript<br/>
-      Redux Toolkit<br/>
-      Tailwind CSS<br/>
-      Framer Motion
-    </td>
-    <td width="25%" valign="top">
-      <strong>Backend</strong><br/>
-      Node.js<br/>
-      Express<br/>
-      NestJS<br/>
-      REST APIs<br/>
-      JWT Auth<br/>
-      Prisma / Mongoose
-    </td>
-    <td width="25%" valign="top">
-      <strong>Data & infra</strong><br/>
-      MongoDB<br/>
-      PostgreSQL<br/>
-      Firebase<br/>
-      Socket.io<br/>
-      Git / GitHub<br/>
-      Vercel
-    </td>
-    <td width="25%" valign="top">
-      <strong>Workflow</strong><br/>
-      Cursor<br/>
-      Claude<br/>
-      ChatGPT / GPT<br/>
-      Gemini<br/>
-      AI-assisted coding<br/>
-      Prompt workflows
-    </td>
-  </tr>
-</table>
+```
+Frontend     React · Next.js · TypeScript · Redux Toolkit · Tailwind · Framer Motion
+Backend      Node.js · Express · NestJS · REST · JWT · Prisma / Mongoose
+Data         MongoDB · PostgreSQL · Firebase · Socket.io
+Workflow     Cursor · Claude · GPT · Gemini · Git / GitHub · Vercel
+```
 
 ---
 
-### Featured work
-
-Public architecture samples.
+### Public architecture samples
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/devwork2210/portfolio">portfolio</a></h3>
-      Next.js personal site with motion UI, contact inbox, and event tracking.
-      <br/><br/>
-      <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>Framer Motion</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/devwork2210/mern-taskflow">mern-taskflow</a></h3>
-      End-to-end MERN app with JWT auth, CRUD, validation, and a React client.
-      <br/><br/>
-      <code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node.js</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/devwork2210/realtime-chat-api">realtime-chat-api</a></h3>
-      Socket.io chat service with rooms, presence, and JWT-gated connections.
-      <br/><br/>
-      <code>Socket.io</code> <code>Node.js</code> <code>TypeScript</code> <code>JWT</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/devwork2210/nest-prisma-api">nest-prisma-api</a></h3>
-      NestJS + Prisma REST API with modules, guards, validation, and Swagger.
-      <br/><br/>
-      <code>NestJS</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Swagger</code>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3><a href="https://github.com/devwork2210/next-ops-dashboard">next-ops-dashboard</a></h3>
-      Next.js operations UI with KPI filters, tables, and a polished dashboard layout.
-      <br/><br/>
-      <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>Recharts</code>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+**[mern-taskflow](https://github.com/devwork2210/mern-taskflow)**  
+JWT auth, CRUD, validation, React client.
+
+`MongoDB` `Express` `React` `Node.js`
+
+</td>
+<td width="50%">
+
+**[realtime-chat-api](https://github.com/devwork2210/realtime-chat-api)**  
+Rooms, presence, JWT-gated Socket.io.
+
+`Socket.io` `Node.js` `JWT`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[nest-prisma-api](https://github.com/devwork2210/nest-prisma-api)**  
+Modules, guards, Prisma, Swagger.
+
+`NestJS` `Prisma` `PostgreSQL`
+
+</td>
+<td width="50%">
+
+**[next-ops-dashboard](https://github.com/devwork2210/next-ops-dashboard)**  
+KPI filters, charts, operations UI.
+
+`Next.js` `TypeScript` `Tailwind`
+
+</td>
+</tr>
 </table>
 
 ---
