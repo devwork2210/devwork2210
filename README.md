@@ -1,71 +1,125 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=900&color=1D4ED8&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Karan+Singh;Senior+Full+Stack+Developer;MERN+%7C+Next.js+%7C+NestJS)](https://github.com/devwork2210)
+# Karan Singh
 
-**I design and ship production-grade web products — clean APIs, sharp UIs, and systems that stay maintainable under real deadlines.**
+**Senior Full Stack Developer**
+
+MERN · Next.js · NestJS · TypeScript
+
+I design and ship production-grade web products — clean APIs, sharp UIs, and systems that stay maintainable under real deadlines.
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-singh-30b4a5258)
-[![Email](https://img.shields.io/badge/Email-dev.work.2210@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.work.2210@gmail.com)
-[![Location](https://img.shields.io/badge/Mohali%2C+Punjab-India-1D4ED8?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/devwork2210)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devwork2210)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/devwork2210)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/devwork2210)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/devwork2210)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/devwork2210)
 
 </div>
 
 ---
 
-### About
+### Focus
 
-Full Stack Engineer with **4+ years** delivering client and product work across e-commerce, real-time communication, dashboards, IoT, and API platforms.
+Full-stack engineer with **4+ years** shipping web products across commerce, realtime systems, dashboards, and API platforms.
 
-Currently at **Weballures** (Aug 2025 — Present), shipping production features with React / Next.js, Node.js / NestJS, and TypeScript. Previously at **Walkwel Technology**, **QServices**, and **Apptunix**.
-
-Open to **Senior Full Stack / Senior MERN** roles · Remote-friendly · English · Hindi · Punjabi
+Open to **Senior Full Stack / Senior MERN** roles.
 
 ---
 
-### Tech stack
+### Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,nodejs,express,nestjs,mongodb,postgres,prisma,tailwind,git,github,vercel" alt="Tech stack" />
 </p>
 
-| Area | Tools |
-| --- | --- |
-| **Frontend** | React, Next.js, TypeScript, Redux Toolkit, Tailwind CSS, Framer Motion |
-| **Backend** | Node.js, Express, NestJS, REST APIs, JWT Auth, Prisma / Mongoose |
-| **Data & infra** | MongoDB, PostgreSQL, Firebase, Socket.io, Git / GitHub, Vercel |
-| **AI-assisted workflow** | Cursor, Claude, ChatGPT / GPT, Gemini |
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <strong>Frontend</strong><br/>
+      React<br/>
+      Next.js<br/>
+      TypeScript<br/>
+      Redux Toolkit<br/>
+      Tailwind CSS<br/>
+      Framer Motion
+    </td>
+    <td width="25%" valign="top">
+      <strong>Backend</strong><br/>
+      Node.js<br/>
+      Express<br/>
+      NestJS<br/>
+      REST APIs<br/>
+      JWT Auth<br/>
+      Prisma / Mongoose
+    </td>
+    <td width="25%" valign="top">
+      <strong>Data & infra</strong><br/>
+      MongoDB<br/>
+      PostgreSQL<br/>
+      Firebase<br/>
+      Socket.io<br/>
+      Git / GitHub<br/>
+      Vercel
+    </td>
+    <td width="25%" valign="top">
+      <strong>Workflow</strong><br/>
+      Cursor<br/>
+      Claude<br/>
+      ChatGPT / GPT<br/>
+      Gemini<br/>
+      AI-assisted coding<br/>
+      Prompt workflows
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### Featured work
 
-Public architecture samples — not client/company code.
+Public architecture samples.
 
-| Repository | What it shows |
-| --- | --- |
-| [**portfolio**](https://github.com/devwork2210/portfolio) | Personal site in Next.js — motion UI, contact inbox, event tracking |
-| [**mern-taskflow**](https://github.com/devwork2210/mern-taskflow) | End-to-end MERN app — JWT auth, CRUD, validation, React client |
-| [**realtime-chat-api**](https://github.com/devwork2210/realtime-chat-api) | Socket.io chat service — rooms, presence, typed events |
-| [**nest-prisma-api**](https://github.com/devwork2210/nest-prisma-api) | NestJS + Prisma REST API — modules, guards, PostgreSQL |
-| [**next-ops-dashboard**](https://github.com/devwork2210/next-ops-dashboard) | Next.js operations UI — tables, filters, dashboard layout |
-
----
-
-### GitHub stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devwork2210&show_icons=true&hide_border=true&title_color=1D4ED8&icon_color=1D4ED8&text_color=334155&bg_color=00000000" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwork2210&layout=compact&hide_border=true&title_color=1D4ED8&text_color=334155&bg_color=00000000" alt="Top languages" />
-</div>
-
----
-
-### Experience snapshot
-
-- **Weballures** — Full Stack Developer · Aug 2025 — Present
-- **Walkwel Technology** — Full Stack Developer · Jan 2023 — Jun 2025
-- **QServices Inc.** — Full Stack Developer · Mar 2022 — Dec 2022
-- **Apptunix** — Node.js / React.js Trainee · Aug 2021 — Feb 2022
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/devwork2210/portfolio">portfolio</a></h3>
+      Next.js personal site with motion UI, contact inbox, and event tracking.
+      <br/><br/>
+      <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>Framer Motion</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/devwork2210/mern-taskflow">mern-taskflow</a></h3>
+      End-to-end MERN app with JWT auth, CRUD, validation, and a React client.
+      <br/><br/>
+      <code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node.js</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/devwork2210/realtime-chat-api">realtime-chat-api</a></h3>
+      Socket.io chat service with rooms, presence, and JWT-gated connections.
+      <br/><br/>
+      <code>Socket.io</code> <code>Node.js</code> <code>TypeScript</code> <code>JWT</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/devwork2210/nest-prisma-api">nest-prisma-api</a></h3>
+      NestJS + Prisma REST API with modules, guards, validation, and Swagger.
+      <br/><br/>
+      <code>NestJS</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Swagger</code>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/devwork2210/next-ops-dashboard">next-ops-dashboard</a></h3>
+      Next.js operations UI with KPI filters, tables, and a polished dashboard layout.
+      <br/><br/>
+      <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>Recharts</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -73,6 +127,6 @@ Public architecture samples — not client/company code.
 
 **Let’s build something solid.**
 
-[LinkedIn](https://www.linkedin.com/in/karan-singh-30b4a5258) · [Email](mailto:dev.work.2210@gmail.com) · [GitHub](https://github.com/devwork2210)
+[LinkedIn](https://www.linkedin.com/in/karan-singh-30b4a5258) · [GitHub](https://github.com/devwork2210)
 
 </div>
