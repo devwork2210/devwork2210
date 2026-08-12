@@ -1,6 +1,6 @@
 <div align="center">
 
-# Karan Singh
+# Dev Work
 
 ### Senior Full Stack Developer
 
@@ -10,7 +10,6 @@ I design and ship production-grade web products — clean APIs, sharp UIs, and s
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-singh-30b4a5258)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devwork2210)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
@@ -32,7 +31,7 @@ type Delivery = {
   quality: "typed contracts" | "auth" | "validation";
 };
 
-const karan: Delivery = {
+const stack: Delivery = {
   ui: "Next.js",
   api: "NestJS",
   data: "PostgreSQL",
@@ -109,6 +108,6 @@ KPI filters, charts, operations UI.
 
 **Let’s build something solid.**
 
-[LinkedIn](https://www.linkedin.com/in/karan-singh-30b4a5258) · [GitHub](https://github.com/devwork2210)
+[github.com/devwork2210](https://github.com/devwork2210)
 
 </div>
