@@ -1,6 +1,6 @@
 <div align="center">
 
-# Dev Work
+# DevWork
 
 ### Senior Full Stack Developer
 
