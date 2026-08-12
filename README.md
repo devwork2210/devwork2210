@@ -10,6 +10,7 @@ I design and ship production-grade web products — clean APIs, sharp UIs, and s
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-devwork2210.vercel.app-1D4ED8?style=for-the-badge)](https://devwork2210.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devwork2210)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
@@ -108,6 +109,6 @@ KPI filters, charts, operations UI.
 
 **Let’s build something solid.**
 
-[github.com/devwork2210](https://github.com/devwork2210)
+[Portfolio](https://devwork2210.vercel.app) · [GitHub](https://github.com/devwork2210)
 
 </div>
